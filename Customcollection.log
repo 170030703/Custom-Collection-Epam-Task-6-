@@ -1,0 +1,65 @@
+2020-03-04 08:59:48,171(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - addele Method
+2020-03-04 08:59:48,176(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - addele Method
+2020-03-04 08:59:48,176(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - addele Method
+2020-03-04 08:59:48,177(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):44 - Remove Method
+2020-03-04 08:59:48,177(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):33 - getvalue Method
+2020-03-04 08:59:48,178(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):33 - getvalue Method
+2020-03-04 09:06:33,910(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-04 09:06:33,917(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-04 09:06:33,917(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-04 09:06:33,918(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):17 - List after adding elements[1,2,3]
+2020-03-04 09:06:33,918(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):44 - Remove Method
+2020-03-04 09:06:33,918(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):23 - List after removing  elements[1,2]
+2020-03-04 09:06:33,924(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):33 - getvalue Method
+2020-03-04 09:06:33,924(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):28 - 1
+2020-03-04 09:06:33,924(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):33 - getvalue Method
+2020-03-04 09:06:33,925(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):31 - 2
+2020-03-04 09:06:33,925(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):34 - 2
+2020-03-04 10:45:26,829(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):15 - No of Elements
+2020-03-04 10:45:34,103(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):18 - enter Elements2
+2020-03-04 10:45:40,985(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-04 10:45:50,117(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-04 10:45:50,117(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):32 - List after adding elements[bhargav,reddy]
+2020-03-04 10:45:50,118(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):44 - Remove Method
+2020-03-04 10:45:50,118(YYYY-MM-DD HH:mm:ss) ERROR CustomCollection.class(1):46 - i is greater than given length (or) i is less than 0 
+2020-03-04 10:46:22,804(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):15 - No of Elements
+2020-03-04 10:46:32,511(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):18 - enter Elements2
+2020-03-04 10:46:41,816(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-04 10:46:44,570(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-04 10:46:44,571(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):32 - List after adding elements[bhargav,reddy]
+2020-03-04 10:46:44,571(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):44 - Remove Method
+2020-03-04 10:46:44,571(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):38 - List after removing  elements[bhargav]
+2020-03-04 10:46:44,576(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):33 - getvalue Method
+2020-03-04 10:46:44,576(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):43 - bhargav
+2020-03-04 10:46:44,576(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):33 - getvalue Method
+2020-03-04 10:46:44,576(YYYY-MM-DD HH:mm:ss) ERROR CustomCollection.class(1):35 - i is greater than given length (or) i is less than 0 
+2020-03-04 10:47:23,051(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):15 - No of Elements
+2020-03-04 10:47:30,410(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):18 - enter Elements2
+2020-03-04 10:47:33,567(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-04 10:47:36,021(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-04 10:47:36,022(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):32 - List after adding elements[bhargav,reddy]
+2020-03-04 10:47:36,022(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):44 - Remove Method
+2020-03-04 10:47:36,023(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):38 - List after removing  elements[bhargav]
+2020-03-04 10:47:36,027(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):33 - getvalue Method
+2020-03-04 10:47:36,028(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):43 - bhargav
+2020-03-04 10:47:36,028(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):49 - 1
+2020-03-04 12:01:59,800(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):15 - No of Elements
+2020-03-04 12:02:06,346(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):18 - enter Elements2
+2020-03-04 12:02:09,696(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-04 12:02:12,800(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-04 12:02:12,801(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):26 - List after adding elements[bhargav,reddy]
+2020-03-04 12:02:12,801(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):44 - Remove Method
+2020-03-04 12:02:12,801(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):28 - List after removing  elements[bhargav]
+2020-03-04 12:02:12,805(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):33 - getvalue Method
+2020-03-04 12:02:12,805(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):30 - bhargav
+2020-03-04 12:02:12,805(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):32 - 1
+2020-03-05 21:50:15,698(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):15 - No of Elements
+2020-03-05 21:50:22,691(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):18 - enter Elements2
+2020-03-05 21:50:27,725(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-05 21:50:30,872(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):23 - add element Method
+2020-03-05 21:50:30,872(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):26 - List after adding elements[bhargav,reddy]
+2020-03-05 21:50:30,873(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):44 - Remove Method
+2020-03-05 21:50:30,873(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):28 - List after removing  elements[bhargav]
+2020-03-05 21:50:30,878(YYYY-MM-DD HH:mm:ss) INFO  CustomCollection.class(1):33 - getvalue Method
+2020-03-05 21:50:30,879(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):30 - bhargav
+2020-03-05 21:50:30,879(YYYY-MM-DD HH:mm:ss) DEBUG CustomCollection.class(1):32 - 1
